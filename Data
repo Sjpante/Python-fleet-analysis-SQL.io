@@ -1,1 +1,13 @@
 
+EEID,FullName,JobTitle,Department,BusinessUnit,Gender,Ethnicity,Age,HireDate,AnnualSalary,BonusPercent,Country,City,ExitDate
+1,John Smith,Senior Developer,Sales,Sales EU,Male,Caucasian,35,3/15/2019,85000,0.12,Ireland,Dublin,
+2,Sarah Johnson,Data Analyst,IT,Tech Global,Female,Asian,28,6/22/2021,65000,0.08,Ireland,Dublin,
+3,Mike Davis,Sales Manager,Sales,Sales EU,Male,African American,42,11/10/2018,95000,0.15,Ireland,Cork,
+4,Lisa Chen,HR Specialist,HR,Corporate Services,Female,Asian,31,9/5/2020,55000,0.05,Greece,Athens,
+5,David Wilson,Junior Developer,IT,Tech Global,Male,Caucasian,26,1/12/2022,45000,0.03,Greece,Thessaloniki,
+6,Anna Papadopoulos,Marketing Manager,Marketing,Sales EU,Female,Caucasian,38,7/20/2017,78000,0.1,Greece,Athens,
+7,Carlos Rodriguez,Senior Analyst,Finance,Corporate Services,Male,Hispanic,33,4/18/2021,72000,0.09,Ireland,Galway,
+8,Maria Santos,Accountant,Finance,Corporate Services,Female,Hispanic,29,2/14/2020,52000,0.06,Greece,Patras,
+9,Tom Kelly,DevOps Engineer,IT,Tech Global,Male,Caucasian,40,12/1/2019,90000,0.14,Ireland,Limerick,
+10,Emma Brown,Product Manager,Marketing,Sales EU,Female,African American,34,8/30/2021,82000,0.11,Greece,Heraklion,
+11,Raj Patel,Data Scientist,IT,Tech Global,Male,Asian,30,5/15/2022,70000,0.1,Ireland,Dublin,12/1/2023
